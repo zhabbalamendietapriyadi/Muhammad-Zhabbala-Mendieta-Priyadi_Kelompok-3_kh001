@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818294637776",
+    "project_id": "pemmob-pertemuan5",
+    "storage_bucket": "pemmob-pertemuan5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818294637776:android:5ac5d5a83633d5aaa14ad5",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmrTkhAwRQ1i0OeWqOFdV6SlFg5ouyBdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
